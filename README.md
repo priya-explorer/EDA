@@ -1,4 +1,4 @@
-#  statiscal Analysis
+#  statistical Analysis
 Data information - The data has the medical costs of people characterized by certain attributes. 
 Domain - Healthcare
 
