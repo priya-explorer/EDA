@@ -8,6 +8,7 @@ Objective: 1) To carry out EDA on the dataset.
 
 
 Attribute Description
+
 age: age of primary beneficiary
 
 sex: insurance contractor gender, female, male
