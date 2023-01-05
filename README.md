@@ -1,9 +1,11 @@
-#  statistical Analysis
+#  Statistical Analysis
 Data information - The data has the medical costs of people characterized by certain attributes. 
 
 Domain - Healthcare
 
-Objective: 1) To carry out EDA on the dataset. 
+## Objective: 
+
+1) To carry out EDA on the dataset. 
 2) Create statistical evidence by hypothesis testing.
 
 
